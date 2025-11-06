@@ -8,14 +8,12 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-<!-- # 👨🏻‍💻 About Me -->
 # About Me
 
 I am a Master’s student in Information Engineering at the Technical University of Munich (TUM).
 I completed my Bachelor’s degree in Computer and Information Engineering at the University of Siena in Italy. 
 In my spare time, I enjoy sports, playing the piano, and reading.
 
-<!-- # 📝 Publications  -->
 # Publications 
 <a id="publications"></a>
 
@@ -39,7 +37,27 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/NewGlovFlexExtend.png' alt="Placeholder paper diagram" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/47D0A877B05AA2603FC2790E1AE9DE85/S0263574725102464a.pdf/analysis-and-development-of-the-modular-elements-of-a-tendon-actuated-glove-for-hand-rehabilitation.pdf">
+      <strong>Analysis and development of the modular elements of a tendon-actuated glove for hand rehabilitation</strong>
+    </a>
+    <br>
+    Mihai Dragusanu, <strong>Alessio Piroli</strong>, Monica Malvezzi
+    <br>
+    <em>Robotica (2025)</em>
+    
+  </div>
+</div>
 <style>
+
 /* =================================================================== */
 /* Styles for Publication Box Layout
 /* =================================================================== */

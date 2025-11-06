@@ -19,20 +19,19 @@ In my spare time I enjoy doing sports, playing the piano and reading.
 # Publications 
 <a id="publications"></a>
 
-<!--  -->
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/ral2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/NewRigidExoskeletoN.png' alt="Paper diagram" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[**Human–Exoskeleton Interaction Force
-Measurement in a Wearable Device for Hand
-Actuation**](https://link.springer.com/chapter/10.1007/978-3-031-96081-9_25)
+    [**Human–Exoskeleton Interaction Force
+    Measurement in a Wearable Device for Hand
+    Actuation**](https://link.springer.com/chapter/10.1007/978-3-031-96081-9_25)
+    <br>
+    Mihai Dragusanu, **Alessio Piroli**, Monica Malvezzi
+    <br>
+    *New Trends in Medical and Service Robotics (MESROB 2025)*
 
-Mihai Dragusanu, **Alessio Piroli**, Monica Malvezzi
-
-New Trends in Medical and Service Robotics (MESROB 2025)
-
-<a href="projects/label-efficient-semantic-segm/index.html" style="text-decoration: none"><img src="images/icons/NewRigidExoskeletoN.png" alt="Home Icon" class="icon"><span>&ensp;Project Page</span></a>
-<br>
-<a href="https://www.youtube.com/watch?v=DVdKOYepDmU" style="text-decoration: none"><img src="images/icons/video-play-button-svgrepo-com.svg" class="icon"><span>&ensp;Video</span></a>
-</div>
+  </div>
 </div>

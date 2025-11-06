@@ -38,3 +38,38 @@ In my spare time, I enjoy sports, playing the piano, and reading.
     
   </div>
 </div>
+
+<style>
+/* =================================================================== */
+/* Styles for Publication Box Layout
+/* =================================================================== */
+
+.paper-box {
+  display: flex;
+  align-items: center;   /* Vertically centers text with the image */
+  margin-bottom: 25px;   /* Adds space between this and the next paper */
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+}
+
+/* Column for the image */
+.paper-box-image {
+  flex: 0 0 40%;     /* Image box takes up 40% of the width */
+  margin-right: 20px; /* Gap between image and text */
+}
+
+/* Make sure image fits inside its column */
+.paper-box-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px; /* Optional: adds rounded corners to the image */
+}
+
+/* Column for the text */
+.paper-box-text {
+  flex: 1;           /* Text box takes up the remaining space */
+  line-height: 1.5;  /* Improves readability */
+}
+</style>

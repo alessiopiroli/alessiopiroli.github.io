@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,5 +13,26 @@ redirect_from:
 
 I am a Master student in Information Engineering at the Technical University of Munich (TUM).
 I did my undergraduate studies at the University of Siena (Italy) where I obtained my Bachelor's degree in Computer and Information Engineering.
-
 In my spare time I enjoy doing sports, playing the piano and reading.
+
+<!-- # 📝 Publications  -->
+# Publications 
+<a id="publications"></a>
+
+<!--  -->
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/ral2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+
+[**Human–Exoskeleton Interaction Force
+Measurement in a Wearable Device for Hand
+Actuation**](https://link.springer.com/chapter/10.1007/978-3-031-96081-9_25)
+
+Mihai Dragusanu, **Alessio Piroli**, Monica Malvezzi
+
+New Trends in Medical and Service Robotics (MESROB 2025)
+
+<a href="projects/label-efficient-semantic-segm/index.html" style="text-decoration: none"><img src="images/icons/NewRigidExoskeletoN.png" alt="Home Icon" class="icon"><span>&ensp;Project Page</span></a>
+<br>
+<a href="https://www.youtube.com/watch?v=DVdKOYepDmU" style="text-decoration: none"><img src="images/icons/video-play-button-svgrepo-com.svg" class="icon"><span>&ensp;Video</span></a>
+</div>
+</div>

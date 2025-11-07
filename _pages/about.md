@@ -130,7 +130,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 
 .paper-box {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   margin-bottom: 25px;
   padding: 15px;
   border-radius: 8px;
@@ -159,5 +159,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 .paper-box-text {
   flex: 1;
   line-height: 1.5;
+  align-items: flex-start;
+  color: #000;
 }
 </style>

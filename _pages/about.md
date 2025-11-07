@@ -63,6 +63,25 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/ox_class.gif' alt="Paper diagram" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/oxford_flowers_classifier">
+      <strong>Parallel 3D Ground Segmentation</strong>
+    </a>
+    <br>
+    Implementation of a PyTorch Deep Learning pipeline to classify the 102 categories of flowers from the Oxford Flower Dataset.
+    <br>
+    
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/par3dgroundseg.png' alt="Paper diagram" width="100%">
     </div>
   </div>

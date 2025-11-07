@@ -57,6 +57,31 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+# Projects 
+<a id="projects"></a>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/par3dgroundseg.png' alt="Paper diagram" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/parallel-3d-ground-segmentation">
+      <strong>Parallel 3D Ground Segmentation</strong>
+    </a>
+    <br>
+    Implementation and parallelization in C++ with OpenMP of the algorithm described in
+    <i>Fast Segmentation of 3D Point Clouds for Ground Vehicles, Himmelsbach et al. (2010)</i>
+    <br>
+    <!-- <em>New Trends in Medical and Service Robotics (MESROB 2025)</em> -->
+    
+  </div>
+</div>
+
+
 # CV
 <a id="CV"></a>
 - <b>2025-04 / Present </b>: Master in Information Engineering at the Technical University of Munich (TUM)

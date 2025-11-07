@@ -76,7 +76,25 @@ In my spare time, I enjoy sports, playing the piano, and reading.
     Implementation and parallelization in C++ with OpenMP of the algorithm described in
     <i>Fast Segmentation of 3D Point Clouds for Ground Vehicles, Himmelsbach et al. (2010)</i>
     <br>
-    <!-- <em>New Trends in Medical and Service Robotics (MESROB 2025)</em> -->
+    
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/mips.png' alt="Paper diagram" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/mips-interpreter">
+      <strong>MIPS Interpreter</strong>
+    </a>
+    <br>
+    Implementation of a MIPS assembler, interpreter and debugger in C++.  
+    <br>
     
   </div>
 </div>

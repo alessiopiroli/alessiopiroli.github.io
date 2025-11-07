@@ -70,7 +70,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   <div class='paper-box-text'>
     
     <a href="https://github.com/alessiopiroli/oxford_flowers_classifier">
-      <strong>Parallel 3D Ground Segmentation</strong>
+      <strong>Oxford Flowers Classifier</strong>
     </a>
     <br>
     Implementation of a PyTorch Deep Learning pipeline to classify the 102 categories of flowers from the Oxford Flower Dataset.

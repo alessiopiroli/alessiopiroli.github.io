@@ -82,7 +82,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/par3dgroundseg.png' alt="Paper diagram" width="100%">
+      <img src='images/par3dgroundseg.gifs' alt="Paper diagram" width="100%">
     </div>
   </div>
   

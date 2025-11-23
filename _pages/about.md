@@ -63,6 +63,30 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/unet.gif' alt="U-Net Project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/unet_from_scratch">
+      <strong>U-Net from scratch</strong>
+    </a>
+    <br>
+    Implementation from scratch of the paper
+    <i>
+    U-Net: Convolutional Networks for Biomedical Image Segmentation
+    </i>
+    in PyTorch.
+    <br>
+    
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/ox_class.gif' alt="Paper diagram" width="100%">
     </div>
   </div>

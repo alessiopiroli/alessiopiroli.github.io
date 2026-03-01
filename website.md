@@ -7362,6 +7362,7 @@ redirect_from:
 # About Me
 
 I am a Master’s student in Information Engineering at the Technical University of Munich (TUM).
+I am currently a working student for Mercedes-Benz AG.
 I completed my Bachelor’s degree in Computer and Information Engineering at the University of Siena in Italy. 
 In my spare time, I enjoy sports, playing the piano, and reading.
 
@@ -7472,6 +7473,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 
 # CV
 <a id="CV"></a>
+- <b>2026-02 / Present </b>: Working student at Mercedes-Benz AG
 - <b>2025-04 / Present </b>: Master in Information Engineering at the Technical University of Munich (TUM)
 - <b>2024-12 / 2025-04</b>: Research assistant at the University of Siena 
 - <b>2020-09 / 2024-12</b>: Bachelor in Computer and Information Engineering

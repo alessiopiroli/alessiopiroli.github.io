@@ -64,12 +64,14 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/SEG_res.gif' alt="PointNet Project" width="100%">
+      <img src='images/SEG_res.gif' alt="Segmentation results" width="100%">
+    </div>
+    <div style="margin-top: 10px;">
+      <img src='images/CLS_res.gif' alt="Classification results" width="100%">
     </div>
   </div>
   
   <div class='paper-box-text'>
-    
     <a href="https://github.com/alessiopiroli/pointnet_from_scratch">
       <strong>PointNet from scratch</strong>
     </a>
@@ -80,7 +82,6 @@ In my spare time, I enjoy sports, playing the piano, and reading.
     </i>
     in PyTorch.
     <br>
-    
   </div>
 </div>
 

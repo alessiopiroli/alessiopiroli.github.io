@@ -64,6 +64,30 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/vit_pred_attn.gif' alt="U-Net Project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/ViT_from_scratch">
+      <strong>ViT from scratch</strong>
+    </a>
+    <br>
+    Implementation from scratch of the paper
+    <i>
+    An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale
+    </i>
+    in PyTorch.
+    <br>
+    
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/SEG_res.gif' alt="Segmentation results" width="100%">
     </div>
     <div style="margin-top: 10px;">

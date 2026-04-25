@@ -64,6 +64,30 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/yolo.webp' alt="YOLO Project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/ViT_from_scratch">
+      <strong>YOLO from scratch</strong>
+    </a>
+    <br>
+    Implementation from scratch of the paper
+    <i>
+    You Only Look Once: Unified, Real-Time Object Detection
+    </i>
+    in PyTorch.
+    <br>
+    
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/vit_pred_attn.gif' alt="U-Net Project" width="100%">
     </div>
   </div>

@@ -64,6 +64,29 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/dmp.mp4' alt="DMP Project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/dmp_from_scratch">
+      <strong>YOLO from scratch</strong>
+    </a>
+    <br>
+    Implementation from scratch of the paper
+    <i>
+    Depth Map Prediction from a Single Image using a Multi-Scale Deep Network
+    </i>
+    in PyTorch.
+    <br>
+  </div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/yolo.webp' alt="YOLO Project" width="100%">
     </div>
   </div>
@@ -80,7 +103,6 @@ In my spare time, I enjoy sports, playing the piano, and reading.
     </i>
     in PyTorch.
     <br>
-    
   </div>
 </div>
 

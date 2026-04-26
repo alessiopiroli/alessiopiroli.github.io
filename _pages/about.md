@@ -70,7 +70,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   
   <div class='paper-box-text'>
     
-    <a href="https://github.com/alessiopiroli/ViT_from_scratch">
+    <a href="https://github.com/alessiopiroli/YOLO_from_scratch">
       <strong>YOLO from scratch</strong>
     </a>
     <br>

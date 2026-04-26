@@ -64,7 +64,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/dmp.mp4' alt="DMP Project" width="100%">
+      <img src='images/dmp.gif' alt="DMP Project" width="100%">
     </div>
   </div>
   

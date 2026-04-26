@@ -71,7 +71,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   <div class='paper-box-text'>
     
     <a href="https://github.com/alessiopiroli/dmp_from_scratch">
-      <strong>YOLO from scratch</strong>
+      <strong>DMP from scratch</strong>
     </a>
     <br>
     Implementation from scratch of the paper

@@ -64,7 +64,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/simclr_umap.gif' alt="SimCLR Project" width="100%">
+      <img src='images/simclr_umap.webp' alt="SimCLR Project" width="100%">
     </div>
   </div>
   

@@ -83,28 +83,6 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/edsr_output.webp' alt="SimCLR Project" width="100%">
-    </div>
-  </div>
-  
-  <div class='paper-box-text'>
-    
-    <a href="https://github.com/alessiopiroli/SimCLR_from_scratch">
-      <strong>SimCLR from scratch</strong>
-    </a>
-    <br>
-    Implementation from scratch of the paper
-    <i>
-    A Simple Framework for Contrastive Learning of Visual Representations
-    </i>
-    in PyTorch.
-    <br>
-  </div>
-</div>
-
 
 <div class='paper-box'>
   <div class='paper-box-image'>

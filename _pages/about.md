@@ -64,6 +64,28 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/mae_comp.webp' alt="MAE Project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/mae_from_scratch">
+      <strong>MAE from scratch</strong>
+    </a>
+    <br>
+    Implementation from scratch of the paper
+    <i>
+     Masked Autoencoders Are Scalable Vision Learners
+    </i>
+    in PyTorch.
+    <br>
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/edsr_output.webp' alt="EDSR Project" width="100%">
     </div>
   </div>

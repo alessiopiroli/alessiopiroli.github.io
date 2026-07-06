@@ -61,6 +61,30 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 # Projects 
 <a id="projects"></a>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/segformer.webp' alt="SegFormer Project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/SegFormer_from_scratch">
+      <strong>SegFormer from scratch</strong>
+    </a>
+    <br>
+    Implementation from scratch of the paper
+    <i>
+     SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers
+    </i>
+    in PyTorch.
+    <br>
+  </div>
+</div>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>

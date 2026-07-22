@@ -61,6 +61,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 # Projects 
 <a id="projects"></a>
 
+<!-- SEGFORMER paper project -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -84,6 +85,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<!-- MAE paper project -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -107,6 +109,8 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<!-- EDSR paper project -->
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -129,6 +133,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<!-- SimCLR paper project -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -152,6 +157,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<!-- DMP paper project -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -175,6 +181,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<!-- YOLO paper project -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -198,6 +205,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<!-- ViT paper project -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -222,6 +230,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<!-- PointNet paper project -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -247,6 +256,8 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<!-- UNET paper project -->
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -270,25 +281,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/ox_class.gif' alt="Paper diagram" width="100%">
-    </div>
-  </div>
-  
-  <div class='paper-box-text'>
-    
-    <a href="https://github.com/alessiopiroli/oxford_flowers_classifier">
-      <strong>Oxford Flowers Classifier</strong>
-    </a>
-    <br>
-    Implementation of a PyTorch Deep Learning pipeline to classify the 102 categories of flowers from the Oxford Flower Dataset.
-    <br>
-    
-  </div>
-</div>
+<!-- 3D parallel segmentation project -->
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -310,6 +303,8 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   </div>
 </div>
 
+<!-- MIPS project -->
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -324,6 +319,27 @@ In my spare time, I enjoy sports, playing the piano, and reading.
     </a>
     <br>
     Implementation of a MIPS assembler, interpreter and debugger in C++.  
+    <br>
+    
+  </div>
+</div>
+
+<!-- claude2anki project -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/claude2anki_vis.jpg' alt="Paper diagram" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/claude2anki">
+      <strong>claude2anki</strong>
+    </a>
+    <br>
+    A Claude Code skill that turns any pdf into a set of Anki flashcards.
     <br>
     
   </div>

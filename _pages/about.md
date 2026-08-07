@@ -61,6 +61,26 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 # Projects 
 <a id="projects"></a>
 
+<!-- LibTorch EMNIST paper project -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/emnist_libtorch.webp' alt="LibTorch Emnist Project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/emnist_from_scratch">
+      <strong>Emnist LibTorch</strong>
+    </a>
+    <br>
+    Implementation from scratch of a CNN for handwritten character recognition in LibTorch (C++).
+    <br>
+  </div>
+</div>
+
 <!-- SEGFORMER paper project -->
 
 <div class='paper-box'>

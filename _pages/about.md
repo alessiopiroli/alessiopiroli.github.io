@@ -73,7 +73,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
   <div class='paper-box-text'>
     
     <a href="https://github.com/alessiopiroli/evm_from_scratch">
-      <strong>SegFormer from scratch</strong>
+      <strong>EVM from scratch</strong>
     </a>
     <br>
     Implementation from scratch of the paper

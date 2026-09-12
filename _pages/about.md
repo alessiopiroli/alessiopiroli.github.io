@@ -61,6 +61,31 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 # Projects 
 <a id="projects"></a>
 
+<!-- Eulerian Video Motion Magnification paper project -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/evm.gif' alt="EVM project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/evm_from_scratch">
+      <strong>SegFormer from scratch</strong>
+    </a>
+    <br>
+    Implementation from scratch of the paper
+    <i>
+     Eulerian video magnification for revealing subtle changes in the world
+    </i>
+    in Python.
+    <br>
+  </div>
+</div>
+
+
 <!-- LibTorch EMNIST paper project -->
 
 <div class='paper-box'>

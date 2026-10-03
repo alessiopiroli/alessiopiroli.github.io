@@ -61,6 +61,31 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 # Projects 
 <a id="projects"></a>
 
+<!-- Quantization project -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/quantization.webp' alt="Quantization project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/quantize_from_scratch">
+      <strong>Quantize from scratch</strong>
+    </a>
+    <br>
+    Implementation from scratch of the paper
+    <i>
+     Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
+    </i>
+    in Python.
+    <br>
+  </div>
+</div>
+
+
 <!-- Eulerian Video Motion Magnification paper project -->
 
 <div class='paper-box'>

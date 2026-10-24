@@ -80,7 +80,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
     <i>
      Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference
     </i>
-    in Python.
+    in PyTorch.
     <br>
   </div>
 </div>

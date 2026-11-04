@@ -61,6 +61,32 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 # Projects 
 <a id="projects"></a>
 
+
+<!-- GPT Project -->
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <img src='images/gpt_inference.png' alt="GPT from scratch project" width="100%">
+    </div>
+  </div>
+  
+  <div class='paper-box-text'>
+    
+    <a href="https://github.com/alessiopiroli/gpt_from_scratch">
+      <strong>GPT from scratch</strong>
+    </a>
+    <br>
+    Implementation from scratch of the paper
+    <i>
+     Improving Language Understanding by Generative Pre-Training
+    </i>
+    in PyTorch.
+    <br>
+  </div>
+</div>
+
+
 <!-- Quantization project -->
 
 <div class='paper-box'>

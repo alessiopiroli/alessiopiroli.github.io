@@ -67,7 +67,7 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <img src='images/gpt_inference.png' alt="GPT from scratch project" width="100%">
+      <img src='images/inference_example.webp' alt="GPT from scratch project" width="100%">
     </div>
   </div>
   

@@ -12,8 +12,9 @@ redirect_from:
 
 I am a Master’s student in Information Engineering at the Technical University of Munich (TUM).
 I completed my Bachelor’s degree in Computer and Information Engineering at the University of Siena in Italy.
-I am currently a working student at Mercedes-Benz AG. 
-In my spare time, I enjoy sports, playing the piano, and reading.
+Previously I was a working student at Mercedes-Benz AG.
+I am currently an intern at Carl Zeiss AG, working on deep learning techniques for video understanding.
+In my spare time, I enjoy bouldering, playing the piano, and reading.
 
 # Publications 
 <a id="publications"></a>
@@ -469,7 +470,8 @@ In my spare time, I enjoy sports, playing the piano, and reading.
 
 # CV
 <a id="CV"></a>
-- <b>2026-02 / Present </b>: Working student at Mercedes-Benz AG
+- <b>2026-09 / Present </b>: Intern at Carl Zeiss AG
+- <b>2026-02 / 2026-09 </b>: Working student at Mercedes-Benz AG
 - <b>2025-04 / Present </b>: Master in Information Engineering at the Technical University of Munich (TUM)
 - <b>2024-12 / 2025-04</b>: Research assistant at the University of Siena (UniSi)
 - <b>2020-09 / 2024-12</b>: Bachelors degree in Computer and Information Engineering
